@@ -1,7 +1,6 @@
 # robot
-mk
-two
-kali
-gowri
-malli
+majid 
 suhail
+santosh
+vijahat
+tousif
