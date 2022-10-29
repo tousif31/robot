@@ -1,3 +1,5 @@
 welcome to telusko  kitchen
 kheer
 pasta
+ bean
+ pizza
