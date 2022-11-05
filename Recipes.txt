@@ -3,3 +3,5 @@ kheer
 pasta
  bean
  pizza
+burger
+gobi
